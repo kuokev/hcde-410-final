@@ -1,10 +1,12 @@
 # hcde-410-final
 
 ===== Overview =====
+
 Included within is a proposal presenting two possible final projects for HCDE 410. Plan A is about using Washington Trails Association (WTA) trail data to find any correlations between a hike’s location from Seattle with its popularity, or a hike’s perceived difficulty as defined by its length with its overall rating. Plan B is about using the U.S. Forest Service’s publicly released permit lottery data to identify which dates and combinations are most optimal for attempting to secure an overnight trip permit to the protected Enchantments region. 
 
 
 ===== WTA Terms =====
+
 You may view, copy, download, and print Content that is available on this website, subject to the following conditions:
 
 ~ The Content may be used solely for internal informational purposes. No part of this website or its Content may be reproduced or transmitted in any form, by any means, electronic or mechanical, including photocopying and recording, for any other purpose.
