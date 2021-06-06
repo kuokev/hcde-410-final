@@ -1,26 +1,17 @@
 # hcde-410-final
 
-===== Overview =====
+**===== Abstract =====**
+
+
+
+**===== Overview =====**
 
 Included within is a proposal presenting two possible final projects for HCDE 410. Plan A is about using Washington Trails Association (WTA) trail data to find any correlations between a hike’s location from Seattle with its popularity, or a hike’s perceived difficulty as defined by its length with its overall rating. Plan B is about using the U.S. Forest Service’s publicly released permit lottery data to identify which dates and combinations are most optimal for attempting to secure an overnight trip permit to the protected Enchantments region. 
 
 As of May 16, 2021, the decision was made to go with Plan B due to permission not being granted for Plan A and the more realistic time expectation for Plan B. The datasets to be analyzed can be found on the U.S. Forest Service's website [here](https://web.archive.org/web/20201020211744/https://www.fs.usda.gov/Internet/FSE_DOCUMENTS/fseprd695975.pdf) (2019) and [here](https://www.fs.usda.gov/Internet/FSE_DOCUMENTS/fseprd695975.pdf) (2020). The research will attempt to uncover which days offer the greatest chance of winning the overnight permit lottery, and how much of an impact different days and group sizes have on the probability of winning a permit. 
 
 
-===== WTA Terms =====
-
-You may view, copy, download, and print Content that is available on this website, subject to the following conditions:
-
-~ The Content may be used solely for internal informational purposes. No part of this website or its Content may be reproduced or transmitted in any form, by any means, electronic or mechanical, including photocopying and recording, for any other purpose.
-~ The Content may not be modified.
-~ Copyright, trademark, and other proprietary notices may not be removed.
-
-Nothing contained on this website should be construed as granting, by implication, estoppel, or otherwise, any license or right to use this website or any Content displayed on this website, through the use of framing or otherwise, except: (a) as expressly permitted by these Terms of Use; or (b) with our prior written permission or the permission of such third party that may own the trademark or copyright of material displayed on this website.
-
-See: https://www.wta.org/our-work/about/terms-of-service
-
-
-===== USFS (USDA) Terms =====
+**===== USFS (USDA) Terms =====**
 
 Digital Rights and Copyright:
 Most information presented on the USDA Web site is considered public domain information. Public domain information may be freely distributed or copied, but use of appropriate byline/photo/image credits is requested. Attribution may be cited as follows: "U.S. Department of Agriculture."
